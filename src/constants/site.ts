@@ -1,5 +1,7 @@
 
-export const SITE_URL = `https://ghabriel-elias.github.io/`;
+export const BASE_PATH = "/broto";
+
+export const SITE_URL = `https://ghabriel-elias.github.io${BASE_PATH}`;
 
 export const SUPPORT_EMAIL = "falecombroto@gmail.com";
 
