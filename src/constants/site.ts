@@ -11,5 +11,5 @@ export const ADDRESS =
   "Rua Cerejo Cruz, 583, Centro, Boa Vista/RR, CEP 69.301-060";
 
 export function asset(path: string) {
-  return `${BASE_PATH}${path}`;
+  return `${path}`;
 }
